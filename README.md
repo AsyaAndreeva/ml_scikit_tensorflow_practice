@@ -2,7 +2,7 @@
  
 ### 📚 Hands-On Machine Learning Practice Repository
 
-This repository contains hands-on practice and coding exercises from the book **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron.
+This repository contains hands-on practice and coding exercises from the book **"Hands-On Machine Learning with Scikit-Learn and TensorFlow"** by Aurélien Géron.
 
 ### 📑 Description
 This repo serves as a collection of practice exercises, solutions, and experiments while working through the chapters of the book. It includes implementations using:
